@@ -1,0 +1,26 @@
+.w60{
+    width: 60%;
+    float: left;
+    background-color: blueviolet;
+}
+
+.w40{
+    width: 40%;
+    float: left;
+    background-color:black;
+}
+
+.formulario{
+    background: black;
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 24px;
+    padding: 10px 0;
+    border-left: 15px solid blueviolet;
+    position: fixed;
+}
+
+.formulario form{
+    margin-top: 10px;
+}
