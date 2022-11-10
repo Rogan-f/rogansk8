@@ -34,7 +34,7 @@
 }
 
 .menu-list{
-    left:-600px;
+    left:-700px;
     
 }
 
@@ -103,6 +103,10 @@
 }
 
 /*equipe*/
+.container-equipe-circle{
+    height: 500px;
+}
+
 .equipe{
     padding: 40px;
     background-color: rgb(34, 30, 30);
@@ -114,6 +118,7 @@
     margin-top: -40px;
     display:flex;
     flex-wrap: wrap;
+    height: 500px;
 }
 
 .equipe-circle-single{
@@ -158,8 +163,9 @@
     background-image: url("../img/paralax.jpg");
     min-height: 700px;
     background-size: cover;
-    height: 500px;
-    
+    margin-bottom: 200px;
+    background-position: center;
+    background-attachment:fixed;
 }
 
 .w60{
